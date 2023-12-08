@@ -9,10 +9,6 @@
 ***M1,M2 다 지원가능***
 ***UTM( Uncomplicated Terminal Master): ubuntu 운영체제 위에서 실행되는 가상화(VM)관리도구***     
 
-<img src="https://github.com/ojingjing/Ecole/assets/48702158/699f90e2-ad93-4603-ad57-89c38193cfb7" width="700" height="400"/> 
-
-   =>메모리는 나의 메모리중 4분의1이 적당하고 cpu 는 절반으로 하는게 좋다고 한다.    
-
 나머지는 올려둔 사이트 대로 하면 된다.    
 그럼 설정 완료!  
 2. update&upgrade
@@ -48,7 +44,6 @@ update시 오류가 떴었는데 이렇게 해결하였다
    # deb file:/cdrom jammy release
    ```
 
-<img src="https://github.com/ojingjing/Ecole/assets/48702158/d0014864-f7ff-4470-bdf2-a21cf9e95b34" width="700" height="400"/> 
    
 
 
